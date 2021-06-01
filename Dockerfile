@@ -1,4 +1,4 @@
-FROM sandy1709/catuserbot:alpine
+FROM adenosinetp10/catuserbot:alpine
 
 #clonning repo 
 RUN git clone https://github.com/adenosinetp10/catuserbot.git /root/userbot
